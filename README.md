@@ -18,4 +18,6 @@ Testing CAAC Git user from command Line
 test commit for US1146
 
 
+test commit 
+
 test commit with [#US1146] 
