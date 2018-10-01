@@ -34,3 +34,6 @@ text for #US1146
 
 
 test for # US1146 story
+
+
+{US1146} with braces
